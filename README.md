@@ -1,5 +1,5 @@
 1.0
-board: $665+$29
+board: $665+$29 https://www.mouser.com/ProductDetail/115-HF105-000
 250GB SSD: R$587,54 ($120) https://www.kabum.com.br/produto/100973/ssd-samsung-970-evo-plus-250gb-m-2-nvme-leitura-3500mb-s-gravacao-2300mb-s-mz-v7s250b-am
 13.3" E-ink Monitor: $1099
 3D-printable case
