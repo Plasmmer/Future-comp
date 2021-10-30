@@ -10,7 +10,9 @@ board: $665+$29 https://www.mouser.com/ProductDetail/115-HF105-000
 
 GPU rx-590 8gb gddr5 R$1165 ($237) https://www.kabum.com.br/produto/103340/placa-de-v-deo-sapphire-amd-radeon-rx-590-8gb-gddr5-11289-06-20g https://lista.mercadolivre.com.br/rx500
 
-$2150 (R$10.607)
+$2150 (R$12.116)
+
+----
 
 2.0
 
