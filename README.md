@@ -1,6 +1,6 @@
 1.0
 
-board: $665+$29 https://www.mouser.com/ProductDetail/115-HF105-000
+board: $665+$29 https://www.mouser.com/ProductDetail/115-HF105-000 https://www.crowdsupply.com/sifive/hifive-unmatched
 
 250GB SSD: R$587,54 ($120) https://www.kabum.com.br/produto/100973/ssd-samsung-970-evo-plus-250gb-m-2-nvme-leitura-3500mb-s-gravacao-2300mb-s-mz-v7s250b-am
 
