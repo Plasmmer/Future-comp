@@ -1,3 +1,5 @@
+ The intersection between past and future in PCs. Imagine owning the cutting-edge of technology with a Mac in 1984? You can revive these times with the cutting-edge again: black-white e-ink, RISC-V and Rust.
+
 1.0
 
 board: $665+$29 https://www.mouser.com/ProductDetail/115-HF105-000 https://www.crowdsupply.com/sifive/hifive-unmatched
