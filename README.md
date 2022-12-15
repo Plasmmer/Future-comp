@@ -16,9 +16,20 @@ The intersection between past and future in PCs. Imagine owning the cutting-edge
 
 $2150 (R$12.116)
 
-* built-in NFC
+* built-in NFC R$320 (use custom glass cover to make the reader's light softer) https://produto.mercadolivre.com.br/MLB-830959109-leitor-e-gravador-nfc-rfid-acr122u-a9-1356mhz-10-tags-_JM?quantity=1
+* built-in smartcard reader R$69,98 https://produto.mercadolivre.com.br/MLB-985951269-leitor-de-carto-smart-card-certificado-digital-usb-a3-oab-_JM?quantity=1
+R$389,98
+R$12.505,98
+
+* built-in fingerprint reader R$415,99 https://produto.mercadolivre.com.br/MLB-3004482390-leitor-biometrico-digital-hamster-dx-nitgen-hfdu06-usb-_JM#position=9&search_layout=grid&type=item&tracking_id=984cf5a6-ee53-40cd-8ea3-a324c87ac44d
+R$12.921,97
+
+* built-in Logitech webcam R$381,60 https://produto.mercadolivre.com.br/MLB-2609114890-webcam-logitech-c925-full-hd-1080p-_JM?searchVariation=174392951815#searchVariation=174392951815&position=18&search_layout=grid&type=item&tracking_id=4cb3c0cb-4bcf-4456-a26d-af5ba08bea30
+R$13.303,57
+
 * USB-C ports alongside microphone/earphone jacks
-* USB 4.0 ports
+* USB 3.2 (or 4.0) ports https://pt.aliexpress.com/item/1005003539597878.html?spm=a2g0o.productlist.main.17.71375490XqgmXq&algo_pvid=5ad9a4eb-3adc-4c6e-abbc-c084cba9acc2&algo_exp_id=5ad9a4eb-3adc-4c6e-abbc-c084cba9acc2-8&pdp_ext_f=%7B%22sku_id%22%3A%2212000026220279585%22%7D&pdp_npi=2%40dis%21BRL%21233.08%21184.11%21%21%2119.82%21%21%40210212c016711160336286349d0780%2112000026220279585%21sea&curPageLogUid=qVjIobWcusGt https://www.americanas.com.br/produto/5815773670
+* Thunderbolt 4 (or 3) ports https://www.google.com/search?q=Thunderbolt+4+PCI+card&client=ubuntu&hs=4ut&channel=fs&sxsrf=ALiCzsZdskFat821T4QE8SxacXHhPPdpiA:1671116845275&source=lnms&tbm=shop&sa=X&ved=2ahUKEwix_MKv8_v7AhUCLrkGHYkwBCYQ_AUoAXoECAEQAw&biw=1366&bih=623&dpr=1
 
 ----
 
