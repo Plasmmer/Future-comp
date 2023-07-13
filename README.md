@@ -1,4 +1,4 @@
-# Plasmmer Future1984
+# <img height="200px" src="logotype.svg" alt="Plasmmer Future1984" title="Plasmmer Future1984"/>
 
 The intersection between past and future in PCs. Imagine owning the cutting-edge of technology with a Mac in 1984? You can revive these times with the cutting-edge again: RISC-V, Rust and black-white E-INK.
 
